@@ -8,7 +8,7 @@ A tool to help you filter screenshots and videos from Nintendo Switch by game na
 
 ## 下载链接
 ### 软件本体
- - macOS：[NSAH_macos_1_2.dmg](Release/NSAH_macos_1_2.dmg)
+ - macOS：[NSAH_macos_1_2.dmg](Release/NSAH_macos_1_2.dmg)
  - Windows：[NSAH_windows-x64_1_2.exe](Release/NSAH_windows-x64_1_2.exe)
 ### 配置文件
  - 通用配置文件[id_name_map.csv](Release/id_name_map.csv). 
