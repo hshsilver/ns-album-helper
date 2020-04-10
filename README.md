@@ -7,12 +7,12 @@ A tool to help you filter screenshots and videos from Nintendo Switch by game na
 # NS Album Helper NS相册分类帮手
 
 ## 下载链接
-###软件本体
+### 软件本体
  - macOS：[NSAH_macos_1_2.dmg](Release/NSAH_macos_1_2.dmg)
  - Windows：[NSAH_windows-x64_1_2.exe](Release/NSAH_windows-x64_1_2.exe)
-###配置文件
+### 配置文件
  - 通用配置文件[id_name_map.csv](Release/id_name_map.csv). 
-注意：以上两个版本为安装包模式，内含所需运行环境（Java的JRE）。如果你电脑里有jdk 1.8以上版本，可以直接尝试运行Release文件夹中的jar或自行编译。
+注意：配置文件通用，以上两个版本为安装包模式，内含所需运行环境（Java的JRE）。如果你电脑里有jdk 1.8以上版本，可以直接尝试运行Release文件夹中的jar或自行编译。
 
 ## 操作说明
 
