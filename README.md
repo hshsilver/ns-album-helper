@@ -6,7 +6,7 @@ A tool to help you filter screenshots and videos from Nintendo Switch by game na
 
 # NS Album Helper NS相册分类帮手
 
-## 操作说明：
+## 操作说明
 
 1、本程序帮助您将NS外置SD卡中的截图和视频按”游戏“分类导出，并保留时间属性。
 
